@@ -1,5 +1,9 @@
-# Template
+# Feinstaubmesser
 ## 1. Beschreibung
+https://sensor.community/de/
+
+https://blog.helmutkarger.de/category/projekte/feinstaubsensor/page/2/
+
 
 ## 2. Teileliste
 * Teil 1
