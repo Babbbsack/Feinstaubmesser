@@ -1,5 +1,8 @@
 # Feinstaubmesser
 ## 1. Beschreibung
+Nach einem DLF-Podcast stellt Feinstaub ein sehr hoher Gesundheitsrisiko dar.
+Mit einem Arduino Messsystem könnte man sich an Messung für Internet (Citizenscience) beteiligen oder testweise mal Luft in Kau (Schrottplatz und Landstraße), Stadtallendorf (Winter, Ferrero), Innenraum bei unserem Dieselmotor, Rasenmäher und Kamin testen
+
 https://sensor.community/de/
 
 https://blog.helmutkarger.de/category/projekte/feinstaubsensor/page/2/
