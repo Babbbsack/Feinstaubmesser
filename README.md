@@ -8,6 +8,8 @@ https://sensor.community/de/
 https://blog.helmutkarger.de/category/projekte/feinstaubsensor/page/2/
 
 
+Gemäß diesem Paper (https://www.nature.com/articles/s41586-021-04134-6) und dem entsprechenden DLF-Beitrag sind Organophosphate (Zerfallsprodukte von Branschutzmitteln in diversen Gegenständen) überall in Luft in Großstädten vorhanden. Auswirkungen auf Gesundheit sind noch nicht bekannt.
+
 ## 2. Teileliste
 * Teil 1
 * Teil 2
