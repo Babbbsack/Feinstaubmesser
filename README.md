@@ -19,6 +19,8 @@ https://www.instructables.com/A-Low-cost-IoT-Air-Quality-Monitor-Based-on-Raspbe
 ## 3. Meine Umsetzung/Wichtige Links/Codes
 Funktion des Sensors getestet mit folgendem Aufbau, Sketch und Corde auf Arduino Uno: https://www.electroniclinic.com/dust-sensor-sds011-interfacing-with-arduino-air-quality-monitoring/
 
+Alternativ könnte man Aufbau wie hier beschrieben noch um LCD-Display und Speicherkarte erweitern um Werte zu loggen: https://www.instructables.com/Simple-Air-Pollution-Monitor-Using-an-Arduino-Uno-/
+
 
 *Formatierung von Text in github:*
 
